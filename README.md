@@ -8,3 +8,9 @@ I’ve had the opportunity to speak directly with Stefon Harris and have been in
 
 ## Why This Project
 As part of my web development journey through The Odin Project, I chose to model this landing page after Harmony Cloud™.
+
+## Live Demo
+
+[View the live site](https://ivanrsalcedo.github.io/harmony-cloud-landing-page/)
+
+![Screenshot of Harmony Cloud Landing Page](images/screenshot.png)
