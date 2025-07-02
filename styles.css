@@ -22,6 +22,14 @@ header .container {
     align-items: center;
 }
 
+.features .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 50px;
+}
+
 header .container {
     padding: 16px 0;
 }
@@ -52,14 +60,6 @@ header .container {
     color: #1F2937;
     font-size: 36px;
     font-weight: 400;
-}
-
-.features .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
-    margin-bottom: 50px;
 }
 
 .feature-card {
