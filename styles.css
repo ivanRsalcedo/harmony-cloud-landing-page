@@ -56,6 +56,14 @@ header .container {
     margin: 75px auto;
 }
 
+footer .container {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    font-weight: 300;
+    color: #E5E7EB;
+}
+
 .call-to-action h2 {
     font-weight: 500;
 }
@@ -113,6 +121,7 @@ button {
 }
 
 .hero,
+footer,
 header {
     background-color: #1F2937;
     color: white;
